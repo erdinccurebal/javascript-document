@@ -1,0 +1,8 @@
+{
+    "users": [
+        {"id":1 , "name": "Berk", "surname": "Comolokko"},
+        {"id":2 , "name": "Merve", "surname": "Sorko"},
+        {"id":3 , "name": "Nurcan", "surname": "Cılgın"},
+        {"id":4 , "name": "Melike", "surname": "Tiryaki"}
+    ]
+}
